@@ -1,1 +1,1 @@
-# CommuntiyClient_android used library from CommunityClient
+# a CommuntiyClient for android demo.used library from CommunityClient
